@@ -189,3 +189,5 @@ You can follow instructions from : `https://www.mersenneforum.org/showthread.php
 ## Contributing 
 
 - Please read the CONTRIBUTING.md guideline for the bare minimum aceptable PRs.
+
+NOTE: Install sage manually..
